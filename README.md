@@ -1,42 +1,42 @@
-# ESTO ES UN PREVIEW DEL FRONTEND DEL PROYECTO POLLOTRACK
+# 🐔 Preview — PolloTrack Frontend
 
-## 📌 Descripción
+## 📌 Description
+This repository is a **preview version** of the PolloTrack frontend, a project designed to manage broiler chicken production.  
+It is **not functional** — the goal is to showcase my coding style and project structure (note: my coding skills have significantly improved since the development of this project).  
 
-Este es un proyecto universitario, una aplicación web para la gestión de pollos de engorde. 
+👉 The **full and functional version** is private.  
 
-## NOTA IMPORTANTE
+---
 
-Este repositorio contiene una pequeña versión de la aplicación web y NO es funcional, es para mostrar mi estilo de codificar (el cual he mejorado bastante desde la realización de este proyecto). 
-La versión completa y funcional se encuentra en el repositorio oficial y es totalmente privado.
+## 🚀 Tech Stack
+- **Frontend:** React, React Router  
+- **UI Components:** Material UI  
+- **HTTP Client:** Axios  
+- **Forms & Validation:** Formik, Yup  
+- **Date Handling:** Dayjs  
+- **Alerts & Notifications:** SweetAlert2  
 
-## 🚀 Tecnologías Usadas
+---
 
-- React
-- React Router
-- Material UI
-- Axios
-- Formik
-- Yup
-- Dayjs
-- SweetAlert2
+## 🖼️ Screenshots
+![Screenshot 1](https://github.com/JurgenKings/prev-front-pollotrack/blob/main/public/project-1.png)  
+![Screenshot 2](https://github.com/JurgenKings/prev-front-pollotrack/blob/main/public/project-2.png)  
+![Screenshot 3](https://github.com/JurgenKings/prev-front-pollotrack/blob/main/public/project-3.png)  
+![Screenshot 4](https://github.com/JurgenKings/prev-front-pollotrack/blob/main/public/project-4.png)  
+![Screenshot 5](https://github.com/JurgenKings/prev-front-pollotrack/blob/main/public/project-5.png)  
+![Screenshot 6](https://github.com/JurgenKings/prev-front-pollotrack/blob/main/public/project-6.png)  
+![Screenshot 7](https://github.com/JurgenKings/prev-front-pollotrack/blob/main/public/project-7.png)  
+![Screenshot 8](https://github.com/JurgenKings/prev-front-pollotrack/blob/main/public/project-8.png)  
 
-## 📝 Licencia
+---
 
-Este proyecto preview está licenciado bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
+## 📝 License
+This preview project is licensed under the MIT License.  
+See the [LICENSE](./LICENSE) file for more details.  
 
-## 📝 Autor
+---
 
-[Jurgen Kings](https://jurgenkings.com)
-
-## Capturas de Pantalla
-
-![Captura de pantalla](https://github.com/JurgenKings/prev-front-pollotrack/blob/main/public/project-1.png)
-![Captura de pantalla](https://github.com/JurgenKings/prev-front-pollotrack/blob/main/public/project-2.png)
-![Captura de pantalla](https://github.com/JurgenKings/prev-front-pollotrack/blob/main/public/project-3.png)
-![Captura de pantalla](https://github.com/JurgenKings/prev-front-pollotrack/blob/main/public/project-4.png)
-![Captura de pantalla](https://github.com/JurgenKings/prev-front-pollotrack/blob/main/public/project-5.png)
-![Captura de pantalla](https://github.com/JurgenKings/prev-front-pollotrack/blob/main/public/project-6.png)
-![Captura de pantalla](https://github.com/JurgenKings/prev-front-pollotrack/blob/main/public/project-7.png)
-![Captura de pantalla](https://github.com/JurgenKings/prev-front-pollotrack/blob/main/public/project-8.png)
-
-
+## 👨‍💻 Author
+**Jurgen Kings (Jorge Reyes)**  
+🌐 [jurgenkings.com](https://jurgenkings.com)  
+📧 jorgereyes@jurgenkings.com  
